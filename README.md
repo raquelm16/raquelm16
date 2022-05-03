@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @raquelm16
-- 👀 I’m interested in learn new things.
+- 👀 I’m interested in work with programming.
 - 🌱 I’m currently learning analysis and systems development.
 - 💞️ I’m looking to collaborate on the future.
-- 📫 How to reach me: linkedin.com/in/raquelmc
 
-<!---
-raquelm16/raquelm16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Summary
+=================
+   * [How to reach me](#howtoreachme)
+
+<h2 id="howtoreachme" align="center">🔍 How to reach me</h2>
+
+↳ [LinkedIn](https://www.linkedin.com/in/raquelmc/)<br>
+↳ [Portfólio (2021)](https://docs.google.com/presentation/d/1P973ymQZ_S-1gzHiJGjz3j_pd_1ELMvFIxiyqDup81s/edit?usp=sharing)<br>
+↳ <a href="mailto:raquelmc365@gmail.com">E-mail</a>
