@@ -12,3 +12,7 @@ Summary
 ↳ [LinkedIn](https://www.linkedin.com/in/raquelmc/)<br>
 ↳ [Portfólio (2021)](https://docs.google.com/presentation/d/1P973ymQZ_S-1gzHiJGjz3j_pd_1ELMvFIxiyqDup81s/edit?usp=sharing)<br>
 ↳ <a href="mailto:raquelmc365@gmail.com">E-mail</a>
+
+
+
+<h6>... writing this README</h6>
