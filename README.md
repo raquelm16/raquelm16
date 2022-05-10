@@ -15,4 +15,4 @@ Summary
 
 
 
-<h6>... writing this README</h6>
+<h6>... programming this README</h6>
