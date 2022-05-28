@@ -4,13 +4,13 @@
    👋 Hi, I’m @raquelm16 <br>
    👀 I’m interested in work with programming and design. <br>
    🌱 I’m currently learning analysis and systems development. <br>
-   💞️ I love the fact that, with programming, I can turn my imagination into something real. <br>
+   💞️ I love the fact that, with programming, I can turn the imagination into something real. <br>
    <br>
    <h3>P O R T U G U E S E </h3>
    👋 Oi, eu sou a @raquelm16 <br>
    👀 Tenho interesse em trabalhar com programação e design. <br>
    🌱 Atualmente estou aprendendo análise e desenvolvimento de sistemas. <br>
-   💞️ Eu adoro o fato de que, com a programação, posso transformar minha imaginação em algo real. <br>
+   💞️ Eu adoro o fato de que, com programação, posso transformar a imaginação em algo real. <br>
 <br>
 <br>
 
