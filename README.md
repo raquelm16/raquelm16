@@ -1,4 +1,4 @@
-<img align="right" width="300px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-67a3fa3e-0a61-4a4d-8582-980e3fb56b90-v1.png?transparent=1&palette=1" width="300" height="300" class="media-object  img-responsive img-thumbnail">
+<img align="right" width="300px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="300" height="300" class="media-object  img-responsive img-thumbnail">
    
    <h3>E N G L I S H </h3> 
    👋 Hi, I’m @raquelm16 <br>
@@ -32,7 +32,7 @@
 <h3 align="center"> 💻 My statistics</h3> 
 <br>
 <a href="https://github.com/raquelm16">
-    <img align="left" width="250px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/c8a02b82-fa5e-4668-933f-b6517c8518b0-67a3fa3e-0a61-4a4d-8582-980e3fb56b90-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object  img-responsive img-thumbnail">
+    <img align="left" width="250px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/c8a02b82-fa5e-4668-933f-b6517c8518b0-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object  img-responsive img-thumbnail">
    
   <h3 align="right"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelm16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <br>
