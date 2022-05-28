@@ -1,9 +1,10 @@
-   E N G L I S H <br>
+   
+   E N G L I S H <br> 
    👋 Hi, I’m @raquelm16 <br>
    👀 I’m interested in work with programming and design. <br>
    🌱 I’m currently learning analysis and systems development. <br>
    💞️ I want to collaborate with the future. <br>
-   
+      <h5 align="center"><img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-67a3fa3e-0a61-4a4d-8582-980e3fb56b90-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object  img-responsive img-thumbnail"></h5>
    P O R T U G U E S E <br>
    👋 Oi, eu sou a @raquelm16 <br>
    👀 Tenho interesse em trabalhar com programação e design. <br>
@@ -22,5 +23,3 @@ Summary
 
 
 <h6>... programming this README</h6>
-
-
