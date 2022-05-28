@@ -16,7 +16,7 @@ Summary
 
 <h2 id="howtoreachme" align="center">🔍 How to reach me</h2>
 
-↳ [LinkedIn](https://www.linkedin.com/in/raquelmc/)<br>
+↳ <a href="https://www.linkedin.com/in/raquelmc/"><img src="https://user-images.githubusercontent.com/100868145/170832845-13e0fd24-16f7-4b30-988f-fc01ab7acc40.png" class="media-object  img-responsive img-thumbnail"></a>
 ↳ <a href="mailto:raquelmc365@gmail.com">E-mail</a>
 
 <h2 id="comomeachar" align="center">🔍 Como me achar</h2>
