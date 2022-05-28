@@ -21,6 +21,14 @@
 <a href="mailto:raquelmc365@gmail.com"><img src="https://user-images.githubusercontent.com/100868145/170833005-34940b65-11c5-486d-900b-6ab72ff895a2.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <br>
 <br>
+
+<h3 align="left">💾 I'm learning </h3>
+<br>
+<br>
+...writing the READ.md
+
+
+
 <h3 align="center"> 💻 My statistics</h3> 
 <br>
 <a href="https://github.com/raquelm16">
