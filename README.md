@@ -50,6 +50,6 @@
     <img align="right" src="https://sdk.bitmoji.com/render/panel/9e669e76-bd42-43ba-bc81-83741de280f5-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object img-responsive img-thumbnail">
   <h3 align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelm16&show_icons=true&theme=darcula&icon_color=2f548f&include_all_commits=true&count_private=true"/>
      <br>
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelm16&layout=default&langs_count=8&theme=darcula"/></h3>
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelm16&layout=default&langs_count=10&theme=darcula&"/></h3>
      <br>
    
