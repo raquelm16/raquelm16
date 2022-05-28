@@ -15,9 +15,10 @@
 <br>
 
  
-<h3 align="left">🔍 How to reach me </h3>
+<h3 align="left">🔍 Where you can find me </h3>
 
 <a href="https://www.linkedin.com/in/raquelmc/"><img src="https://user-images.githubusercontent.com/100868145/170832845-13e0fd24-16f7-4b30-988f-fc01ab7acc40.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://www.skoob.com.br/perfil/raquelm16"><img src="https://user-images.githubusercontent.com/100868145/170844550-0fa81a1e-6fb5-4c49-b69e-800d7deff284.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <a href="mailto:raquelmc365@gmail.com"><img src="https://user-images.githubusercontent.com/100868145/170833005-34940b65-11c5-486d-900b-6ab72ff895a2.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <br>
 <br>
@@ -46,8 +47,8 @@
 
 <h3 align="center"> 💻 S T A T I S T I C S 💻</h3> 
 <br>
+<img align="right" src="https://sdk.bitmoji.com/render/panel/9e669e76-bd42-43ba-bc81-83741de280f5-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object img-responsive img-thumbnail">
 <a href="https://github.com/raquelm16">
-    <img align="right" src="https://sdk.bitmoji.com/render/panel/9e669e76-bd42-43ba-bc81-83741de280f5-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object img-responsive img-thumbnail">
   <h3 align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelm16&show_icons=true&theme=darcula&icon_color=2f548f&include_all_commits=true&count_private=true"/>
      <br>
   <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelm16&layout=default&langs_count=10&theme=darcula&"/></h3>
