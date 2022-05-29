@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<h3 align="center">💾 L E A R N I N G 💾</h3>
+<h3 align="center"> 💻 L E A R N I N G 💻</h3>
 <br>
 <br>
 <h3 align="left">Programming</h3>
@@ -45,7 +45,7 @@
 <br>
 
 
-<h3 align="center"> 💻 S T A T I S T I C S 💻</h3> 
+<h3 align="center"> 📈 S T A T I S T I C S 📈</h3> 
 <br>
 <img align="right" src="https://sdk.bitmoji.com/render/panel/9e669e76-bd42-43ba-bc81-83741de280f5-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="250" height="250" class="media-object img-responsive img-thumbnail">
 <a href="https://github.com/raquelm16">
