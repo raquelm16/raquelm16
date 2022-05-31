@@ -18,7 +18,7 @@
 <h3 align="left">🔍 Where you can find me </h3>
 
 <a href="https://www.linkedin.com/in/raquelmc/"><img src="https://user-images.githubusercontent.com/100868145/170832845-13e0fd24-16f7-4b30-988f-fc01ab7acc40.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
-<a href="https://www.skoob.com.br/perfil/raquelm16/app"><img src="https://user-images.githubusercontent.com/100868145/170867616-3376cef0-aa82-4555-a27c-04b0210785e8.png"  width="100" height="100" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://www.skoob.com.br/perfil/raquelm16"><img src="https://user-images.githubusercontent.com/100868145/170867616-3376cef0-aa82-4555-a27c-04b0210785e8.png"  width="100" height="100" class="media-object  img-responsive img-thumbnail"></a>
 <a href="mailto:raquelmc365@gmail.com"><img src="https://user-images.githubusercontent.com/100868145/170833005-34940b65-11c5-486d-900b-6ab72ff895a2.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <br>
 <br>
