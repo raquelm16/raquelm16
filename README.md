@@ -1,11 +1,6 @@
 <img align="right" width="300px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="300" height="300" class="media-object  img-responsive img-thumbnail">
    
-   <h3>E N G L I S H </h3> 
-   👋 Hi, I’m @raquelm16 <br>
-   👀 I’m interested in work with programming and design. <br>
-   🌱 I’m currently learning analysis and systems development. <br>
-   💞️ I love the fact that, with programming, I can turn the imagination into something real. <br>
-   <br>
+   ## <img src="https://cdn.discordapp.com/attachments/494996013837320193/909802763834253372/switchblue.png" width="40px;"/><a href="https://github.com/blackkseaw/blackkseaw/blob/main/README-EN.md"> Switch to English </a>
    <h3>P O R T U G U E S E </h3>
    👋 Oi, eu sou a @raquelm16 <br>
    👀 Tenho interesse em trabalhar com programação e design. <br>
