@@ -2,9 +2,9 @@
    
    ## <a href="https://github.com/raquelm16/raquelm16/blob/main/README-EN.md"><img src="https://user-images.githubusercontent.com/100868145/189416047-6cd07acb-e901-47d0-a955-fe0ef5fdc66e.png" width="40px;"/></a> Switch to English 
    👋 Oi, eu sou a Raquel <br>
-   👀 Tenho interesse em trabalhar com programação e design. <br>
-   🌱 Atualmente estou aprendendo análise e desenvolvimento de sistemas. <br>
-   💞️ Eu adoro o fato de que, com programação, posso transformar a imaginação em algo real. <br>
+   👀 Tenho interesse em trabalhar mais em front-end, mas programo em back-end, também. <br>
+   🌱 Atualmente estou no curso de análise e desenvolvimento de sistemas, no Senai. <br>
+   💞️ <strong>Front-end</strong> 💞️ <br>
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 
 
-<h3 align="center"> 📈 E S T A T Í S T I C A S 📈</h3> 
+<h3 align="center"> 👩🏻‍💻 G I T H U B 👩🏻‍💻 </h3> 
 <br>
 <a href="https://github.com/raquelm16">
   <h3 align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelm16&show_icons=true&theme=darcula&icon_color=2f548f&include_all_commits=true&count_private=true" class="media-object  img-responsive img-thumbnail"/>
