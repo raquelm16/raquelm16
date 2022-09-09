@@ -1,6 +1,6 @@
 <img align="right" width="300px" style="margin-top:-20px"  src="https://media4.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=ecf05e47dowip7mjs56wiffuzr7ukf7q4euimx5afqhvof5p&rid=giphy.gif&ct=s" width="" height="" class="media-object  img-responsive img-thumbnail">
    
-   ## <a href="https://github.com/raquelm16/raquelm16/blob/main/README-EN.md"><img src="https://user-images.githubusercontent.com/100868145/189416739-3a11db38-e147-4e2f-a3ec-eec75bd5bea8.png" width="40px;"/></a> Switch to Portuguese 
+   ## <a href="https://github.com/raquelm16/raquelm16/blob/main/README.md"><img src="https://user-images.githubusercontent.com/100868145/189416739-3a11db38-e147-4e2f-a3ec-eec75bd5bea8.png" width="40px;"/></a> Switch to Portuguese 
    👋 Hi, I'm Raquel <br>
    👀 I am interested in working more on the front-end, but I program on the back-end, too. <br>
    🌱 I am currently taking a course in systems analysis and development at Senai. <br>
