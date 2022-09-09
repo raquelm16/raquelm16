@@ -16,9 +16,9 @@
 <a href="mailto:raquelmc365@gmail.com"><img src="https://user-images.githubusercontent.com/100868145/170833005-34940b65-11c5-486d-900b-6ab72ff895a2.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <br>
 <br>
+<br>
 
 <h3 align="center"> 💻 A P R E N D E N D O 💻</h3>
-<br>
 <br>
 <h3 align="left">Programação</h3>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
