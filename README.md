@@ -44,7 +44,9 @@
 <br>
 <a href="https://github.com/raquelm16">
   <h3 align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raquelm16&show_icons=true&theme=darcula&icon_color=2f548f&include_all_commits=true&count_private=true" class="media-object  img-responsive img-thumbnail"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelm16&layout=compact&langs_count=10&theme=darcula&" class="media-object  img-responsive img-thumbnail"/></h3>
      <br>
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raquelm16&layout=default&langs_count=10&theme=darcula&" class="media-object  img-responsive img-thumbnail"/></h3>
-     <br>
-   
+   <br>
+   <br>
+   <br>
+   <img align="right" src="https://media2.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?cid=ecf05e472tyfzyq1e8neu49sbrfae9mehxs6f4waxcpmsfwu&rid=giphy.gif&ct=s">
