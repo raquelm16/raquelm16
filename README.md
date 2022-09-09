@@ -1,4 +1,4 @@
-<img align="right" width="300px" style="margin-top:-20px"  src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-ff4c64b6-a138-42a8-87f8-b0615868c0f9-v1.png?transparent=1&palette=1" width="300" height="300" class="media-object  img-responsive img-thumbnail">
+<img align="right" width="300px" style="margin-top:-20px"  src="https://media4.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif?cid=ecf05e47dowip7mjs56wiffuzr7ukf7q4euimx5afqhvof5p&rid=giphy.gif&ct=s" width="" height="" class="media-object  img-responsive img-thumbnail">
    
    ## <a href="https://github.com/raquelm16/raquelm16/blob/main/README-EN.md"><img src="https://user-images.githubusercontent.com/100868145/189416047-6cd07acb-e901-47d0-a955-fe0ef5fdc66e.png" width="40px;"/></a> Switch to English 
    👋 Oi, eu sou a Raquel <br>
