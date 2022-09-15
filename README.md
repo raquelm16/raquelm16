@@ -21,9 +21,9 @@
 <h3 align="center"> 💻 A P R E N D E N D O 💻</h3>
 <br>
 <h3 align="left">Programação</h3>
-<code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
-<code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
-<code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
+<code><a href="Html"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
+<code><a href="Css"><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
+<code><a href="Javascript"><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Tecnologia da Informação</h3>
