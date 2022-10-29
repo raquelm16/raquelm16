@@ -4,7 +4,7 @@
    👋 Oi, eu sou a Raquel <br>
    👀 Tenho interesse em trabalhar mais em front-end, mas programo em back-end, também. <br>
    🌱 Atualmente estou no curso de análise e desenvolvimento de sistemas, no Senai. <br>
-   💞️ <strong>Front-end</strong> 💞️ <br>
+   💞️ <strong>Desenvolvendo um website de estudos...</strong> 💞️ <br>
 <br>
 <br>
 
