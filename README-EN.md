@@ -2,8 +2,8 @@
    
    ## <a href="https://github.com/raquelm16/raquelm16/blob/main/README.md"><img src="https://user-images.githubusercontent.com/100868145/189416739-3a11db38-e147-4e2f-a3ec-eec75bd5bea8.png" width="40px;"/></a> Switch to Portuguese 
    👋 Hi, I'm Raquel <br>
-   👀 I am interested in working more on the front-end, but I program on the back-end, too. <br>
-   🌱 I am currently taking a course in systems analysis and development at Senai. <br>
+   👀 I am interested in working with front-end. <br>
+   🌱 I am currently taking a course in systems analysis and development at Sesi Senai. <br>
    💞️ <strong>Developing a study website...</strong> 💞️<br>
 <br>
 <br>
@@ -21,10 +21,10 @@
 <h3 align="center"> 💻 L E A R N I N G 💻</h3>
 <br>
 <h3 align="left">Programming</h3>
-<code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
+<code><a href="https://drive.google.com/file/d/14n8IaZ5jjRTjhlv5gWKBWanUw9iJqEaU/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
-<code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
+<code><a href="https://drive.google.com/file/d/1a8y5i8wEkPqrIQMCKZrJRJ6HEP4bms1f/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Information Technology</h3>
 <code><a href="https://drive.google.com/file/d/1ZQqlM_3ncWXfy-NqMBejx2KVkDbcOUXa/view"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
@@ -37,6 +37,9 @@
 <h3 align="left">Design</h3>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840112-d02a2c93-68b4-4a94-801d-c37e8d35f86c.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840127-64e1b327-875d-45bc-9447-f46765005ee3.png" width="50" height="50"></a></code>
+<br>
+<h3 align="left">Others</h3>
+<code><a href="https://drive.google.com/file/d/1UZsVAcx2UvNOixOAlLpACqfTMJ9Z5txA/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/215569366-541745c3-50cf-4295-a0a4-1bdc48bfb3bf.png" width"50" height="50"></a></code>
 <br>
 <br>
 
