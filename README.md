@@ -27,7 +27,7 @@
 <code><a href="https://www.canva.com/design/DAFZRLShjw4/iZjlVsvSfxkyjMcjuzzxYQ/view?utm_content=DAFZRLShjw4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Tecnologia da Informação</h3>
-<code><a href="https://drive.google.com/file/d/1ZQqlM_3ncWXfy-NqMBejx2KVkDbcOUXa/view"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZQ9Yl-PM/AVzyGLARXrHsxwtNa2psvg/view?utm_content=DAFZQ9Yl-PM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839826-6ac3d0bc-7dc2-4ff6-8c48-8601c77d654d.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839845-dbf7e4e3-0ba4-494a-921c-1aea554aabb9.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839859-b1fa6e51-bd71-4a12-8b5f-e455668e8941.png" width="50" height="50"></a></code>
