@@ -21,10 +21,10 @@
 <h3 align="center"> 💻 A P R E N D E N D O 💻</h3>
 <br>
 <h3 align="left">Programação</h3>
-<code><a href="https://drive.google.com/file/d/14n8IaZ5jjRTjhlv5gWKBWanUw9iJqEaU/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZRHAm-Jo/-YbIvpf8_vp68T4AGFrnrg/view?utm_content=DAFZRHAm-Jo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
-<code><a href="https://drive.google.com/file/d/1a8y5i8wEkPqrIQMCKZrJRJ6HEP4bms1f/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZRLShjw4/iZjlVsvSfxkyjMcjuzzxYQ/view?utm_content=DAFZRLShjw4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Tecnologia da Informação</h3>
 <code><a href="https://drive.google.com/file/d/1ZQqlM_3ncWXfy-NqMBejx2KVkDbcOUXa/view"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
