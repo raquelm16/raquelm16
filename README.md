@@ -38,9 +38,6 @@
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840112-d02a2c93-68b4-4a94-801d-c37e8d35f86c.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840127-64e1b327-875d-45bc-9447-f46765005ee3.png" width="50" height="50"></a></code>
 <br>
-<h3 align="left">Outros</h3>
-<code><a href="https://drive.google.com/file/d/1UZsVAcx2UvNOixOAlLpACqfTMJ9Z5txA/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/215569366-541745c3-50cf-4295-a0a4-1bdc48bfb3bf.png" width"50" height="50"></a></code>
-<br>
 <br>
 
 
