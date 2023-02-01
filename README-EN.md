@@ -21,13 +21,13 @@
 <h3 align="center"> 💻 L E A R N I N G 💻</h3>
 <br>
 <h3 align="left">Programming</h3>
-<code><a href="https://drive.google.com/file/d/14n8IaZ5jjRTjhlv5gWKBWanUw9iJqEaU/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZRHAm-Jo/-YbIvpf8_vp68T4AGFrnrg/view?utm_content=DAFZRHAm-Jo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170838822-6cb4cd89-9f72-409d-a36c-de72e8d5dc1d.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
-<code><a href="https://drive.google.com/file/d/1a8y5i8wEkPqrIQMCKZrJRJ6HEP4bms1f/view?usp=sharing"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZRLShjw4/iZjlVsvSfxkyjMcjuzzxYQ/view?utm_content=DAFZRLShjw4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Information Technology</h3>
-<code><a href="https://drive.google.com/file/d/1ZQqlM_3ncWXfy-NqMBejx2KVkDbcOUXa/view"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
+<code><a href="https://www.canva.com/design/DAFZQ9Yl-PM/AVzyGLARXrHsxwtNa2psvg/view?utm_content=DAFZQ9Yl-PM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839826-6ac3d0bc-7dc2-4ff6-8c48-8601c77d654d.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839845-dbf7e4e3-0ba4-494a-921c-1aea554aabb9.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839859-b1fa6e51-bd71-4a12-8b5f-e455668e8941.png" width="50" height="50"></a></code>
