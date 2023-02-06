@@ -12,7 +12,7 @@
 <h3 align="left">🔍 Onde você pode me achar </h3>
 
 <a href="https://www.linkedin.com/in/raquelmc/"><img src="https://user-images.githubusercontent.com/100868145/170832845-13e0fd24-16f7-4b30-988f-fc01ab7acc40.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
-<a href="https://codepen.io/raquelm16"><img src="https://user-images.githubusercontent.com/100868145/185682005-a6910cc5-b9eb-4463-b639-71472ec18065.png"  width="100" height="100" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://www.instagram.com/raquelm.16/"><img src="https://user-images.githubusercontent.com/100868145/216965793-1defe430-2a4f-4685-b4cf-b29fcbc50544.png"  width="100" height="100" class="media-object  img-responsive img-thumbnail"></a>
 <a href="mailto:raquelmc365@gmail.com"><img src="https://user-images.githubusercontent.com/100868145/170833005-34940b65-11c5-486d-900b-6ab72ff895a2.png" width="100" height="100"  class="media-object  img-responsive img-thumbnail"></a>
 <br>
 <br>
