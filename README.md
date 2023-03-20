@@ -25,6 +25,10 @@
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170838851-fcd426df-38b9-4ae0-a232-e45b828c52a1.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839652-f4cbd22c-bed2-4377-a9d7-c9225de77a17.png" width="50" height="50"></a></code>
 <code><a href="https://www.canva.com/design/DAFZRLShjw4/iZjlVsvSfxkyjMcjuzzxYQ/view?utm_content=DAFZRLShjw4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170840175-bd005f02-af3e-42f3-9c53-e56d2b2e3c17.png" width="50" height="50"></a></code>
+<code><a href="canvaJava"><img src="png" width="50" height="50"></a></code>
+<code><a href="canvaReact"><img src="png" width="50" height="50"></a></code>
+<code><a href="canvaGit"><img src="png" width="50" height="50"></a></code>
+
 <br>
 <h3 align="left">Tecnologia da Informação</h3>
 <code><a href="https://www.canva.com/design/DAFZQ9Yl-PM/AVzyGLARXrHsxwtNa2psvg/view?utm_content=DAFZQ9Yl-PM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"><img src="https://user-images.githubusercontent.com/100868145/170839772-0432b6b5-a27a-47d7-969d-913a7c95fabd.png" width="50" height="50"></a></code>
@@ -33,10 +37,12 @@
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170839859-b1fa6e51-bd71-4a12-8b5f-e455668e8941.png" width="50" height="50"></a></code>
 <code><a href="https://www.credly.com/badges/ba43394e-431f-46e0-a120-a5ecea578563/public_url"><img src="https://user-images.githubusercontent.com/100868145/173236397-b1e6fcf6-1d5f-4435-93a9-5509a157d7c2.png" width="50" height="50"></a></code>
 <code><a href="https://www.credly.com/badges/ee6bf8f1-5e84-4ab8-8a01-8180b47f7548/public_url"><img src="https://user-images.githubusercontent.com/100868145/190495170-13d9351b-4c5a-45d3-a839-16b5bc21ecc8.png" width="50" height="50"></a></code>
+<code><a href="canvaMáquinaVirtual"><img src="png" width="50" height="50"></a></code>
 <br>
 <h3 align="left">Design</h3>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840112-d02a2c93-68b4-4a94-801d-c37e8d35f86c.png" width="50" height="50"></a></code>
 <code><a href=""><img src="https://user-images.githubusercontent.com/100868145/170840127-64e1b327-875d-45bc-9447-f46765005ee3.png" width="50" height="50"></a></code>
+<code><a href="canvaBootstrap"><img src="png" width="50" height="50"></a></code>
 <br>
 <br>
 
