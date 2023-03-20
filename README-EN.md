@@ -4,7 +4,7 @@
    👋 Hi, I'm Raquel <br>
    👀 I am interested in working with front-end. <br>
    🌱 I am currently taking a course in systems analysis and development at Sesi Senai. <br>
-   💞️ <strong>Developing a study website...</strong> 💞️<br>
+   💞️ <strong>Developing a website...</strong> 💞️<br>
 <br>
 <br>
 
