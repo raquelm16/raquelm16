@@ -28,6 +28,7 @@
 <code><a href="canvaJava"><img src="png" width="50" height="50"></a></code>
 <code><a href="canvaReact"><img src="png" width="50" height="50"></a></code>
 <code><a href="canvaGit"><img src="png" width="50" height="50"></a></code>
+<code><a href="canvaAPIs"><img src="png" width="50" height="50"></a></code>
 
 <br>
 <h3 align="left">Tecnologia da Informação</h3>
@@ -39,6 +40,8 @@
 <code><a href="https://www.credly.com/badges/ee6bf8f1-5e84-4ab8-8a01-8180b47f7548/public_url"><img src="https://user-images.githubusercontent.com/100868145/190495170-13d9351b-4c5a-45d3-a839-16b5bc21ecc8.png" width="50" height="50"></a></code>
 <code><a href="canvaMáquinaVirtual"><img src="png" width="50" height="50"></a></code>
 <code><a href="canvaBancodeDados"><img src="png" width="50" height="50"></a></code>
+<code><a href="canvaTestesDeSistemas"><img src="png" width="50" height="50"></a></code>
+<code><a href="canvaImplantaçãoDeSistemas"><img src="png" width="50" height="50"></a></code>
 
 <br>
 <h3 align="left">Design</h3>
